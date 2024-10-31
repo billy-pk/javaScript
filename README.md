@@ -1,2 +1,2 @@
 # javaScript
-a respository fotr building javaScript code
+a respository for building javaScript code
